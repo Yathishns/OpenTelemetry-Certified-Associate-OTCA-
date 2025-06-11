@@ -21,11 +21,13 @@ Based on the official CNCF curriculum:
 # 4. Maintaining & Debugging Pipelines (10%)
     -Troubleshooting data flow, validation, best practices for pipeline maintenance.
 
-✔️ Summary
-✅ Format: Online, proctored, objective-style (multiple choice & select)
-📝 Q’s: 60
-⏰ Time: 90 minutes
-🎯 Passing Grade: 75%
-💲 Fee: $250 with one free retake, valid for one year
-📘 Heavy emphasis on API/SDK & Collector (~72% of questions)
+# ✔️ Summary
+- ✅ Format: Online, proctored, objective-style (multiple choice & select)
+- 📝 Q’s: 60
+- ⏰ Time: 90 minutes
+- 🎯 Passing Grade: 75%
+- 💲 Fee: $250 with one free retake, valid for one year
+- 📘 Heavy emphasis on API/SDK & Collector (~72% of questions)
+
+- 
 
