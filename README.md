@@ -29,9 +29,16 @@ Based on the official CNCF curriculum:
 - 💲 Fee: $250 with one free retake, valid for one year
 - 📘 Heavy emphasis on API/SDK & Collector (~72% of questions)
 
-<ul><li> 
+
 # Preparation Guide:
 otel-certification-prep/
+
+
+01-study-notes
+Observability Fundamentals (18%).md
+02-study-notes
+Observability Fundamentals (18%).md
+
 │
 ├── README.md
 ├── LICENSE
