@@ -31,20 +31,13 @@ Based on the official CNCF curriculum:
 
 
 # Preparation Guide:
-otel-certification-prep/
-
-
-01-study-notes
-Observability Fundamentals (18%).md
-02-study-notes
-Observability Fundamentals (18%).md
-
-│
-├── README.md
-├── LICENSE
-│
-├── syllabus/
-│   └── exam-syllabus.md
+# otel-certification-prep/
+## │
+### ├── README.md
+### ├── LICENSE
+## │
+## ├── syllabus/
+### │   └── exam-syllabus.md
 │
 ├── study-notes/
 │   ├── 01-introduction.md
