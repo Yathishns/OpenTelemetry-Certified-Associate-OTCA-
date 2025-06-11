@@ -32,12 +32,12 @@ Based on the official CNCF curriculum:
 
 # Preparation Guide:
 # otel-certification-prep/
-## │
-### ├── README.md
-### ├── LICENSE
-## │
-## ├── syllabus/
-### │   └── exam-syllabus.md
+│
+├── README.md
+├── LICENSE
+│
+├── [syllabus/](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/tree/main/00-syllabus). 
+│   └── exam-syllabus.md
 │
 ├── study-notes/
 │   ├── 01-introduction.md
