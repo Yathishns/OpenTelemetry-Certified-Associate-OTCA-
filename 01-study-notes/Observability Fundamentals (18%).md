@@ -23,12 +23,11 @@ OpenTelemetry focuses on these three signals as pillars to enable deep insight.
 
 
 ##  🧱 1.3 Signals in Detail
-- Signal	Use for…	Key Features
-- Logs	Debugging & discrete events	Structured/unstructured
-- Metrics	Monitoring over time	Aggregatable, numeric
-- Traces	Performance & dependencies	Span → Context → Service mapping
-
-
+| Signal  | Use for…                    | Key Features                     |
+| ------- | --------------------------- | -------------------------------- |
+| Logs    | Debugging & discrete events | Structured/unstructured          |
+| Metrics | Monitoring over time        | Aggregatable, numeric            |
+| Traces  | Performance & dependencies  | Span → Context → Service mapping |
 
 
 
