@@ -36,6 +36,8 @@ Traces	Performance & dependencies	Span → Context → Service mapping
 
 
 
+
+
 🧠 1.4 OTEL Architecture Basics
 SDK: Instruments code (generates signals)
 
@@ -44,4 +46,7 @@ API: Language-specific standard to create telemetry data
 Collector: Ingests, processes, and exports data
 
 Backends: Jaeger, Prometheus, Grafana, Datadog, etc.
+
+
+
 
