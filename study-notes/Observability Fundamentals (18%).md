@@ -1,4 +1,6 @@
 🔍 1.1 What Is Observability?
+
+
 Definition:
 
 Observability is the ability to understand a system’s internal state by examining its outputs: logs, metrics, and traces.
