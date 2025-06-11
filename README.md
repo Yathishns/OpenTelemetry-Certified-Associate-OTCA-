@@ -30,26 +30,40 @@ Based on the official CNCF curriculum:
 - 📘 Heavy emphasis on API/SDK & Collector (~72% of questions)
 
 # Preparation Guide
-**Project:** `otel-certification-prep/`
+README.md
 
+LICENSE
 
-📎 Explore: [syllabus/](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/tree/main/00-syllabus)
+syllabus/
+    └── exam-syllabus.md
 
----
+study-notes/
+    ├── 01-introduction.md
+    ├── 02-telemetry-signals.md
+    ├── 03-architecture.md
+    ├── 04-instrumentation.md
+    ├── 05-collector.md
+    ├── 06-exporters.md
+    ├── 07-troubleshooting.md
+    └── 08-best-practices.md
 
-If you want clickable links **next to each item**, you can also do this:
+hands-on-labs/
+    ├── docker-compose/
+    │   ├── docker-compose.yml
+    │   └── otel-collector-config.yaml
+    ├── python-sdk/
+    │   └── trace-demo.py
+    └── java-sdk/
+        └── trace-demo.java
 
-```markdown
-### Folder Structure
+cheatsheets/
+    ├── commands.md
+    └── config-snippets.md
 
-- [README.md](./README.md)
-- [LICENSE](./LICENSE)
-- [syllabus/](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/tree/main/00-syllabus)
-  - [exam-syllabus.md](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/blob/main/00-syllabus/exam-syllabus.md)
-- study-notes/
-  - [01-introduction.md](./study-notes/01-introduction.md)
-  - ...
-
+resources/
+    ├── official-links.md
+    ├── reference-diagrams/
+    └── sample-questions.md
 
 
 
