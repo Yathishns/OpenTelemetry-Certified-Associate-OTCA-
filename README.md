@@ -37,7 +37,7 @@ Based on the official CNCF curriculum:
 ├── README.md
 ├── LICENSE
 │
-├── [syllabus/](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/tree/main/00-syllabus). 
+├── [syllabus/](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/tree/main/00-syllabus.md). 
 │   └── exam-syllabus.md
 │
 ├── study-notes/
