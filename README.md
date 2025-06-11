@@ -30,6 +30,7 @@ Based on the official CNCF curriculum:
 - 📘 Heavy emphasis on API/SDK & Collector (~72% of questions)
 
 
+```text
 # Preparation Guide:
 # otel-certification-prep/
 │
@@ -66,7 +67,9 @@ Based on the official CNCF curriculum:
     ├── official-links.md
     ├── reference-diagrams/
     └── sample-questions.md
-</li></ul>
+```
+
+
 
 
 
