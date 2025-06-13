@@ -43,8 +43,8 @@ Based on the official CNCF curriculum:
 - [syllabus/](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/tree/main/00-syllabus)  
   - [exam-syllabus.md](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/blob/main/00-syllabus/exam-syllabus.md)
 
-- study-notes/  
-  - [01-introduction.md](./study-notes/01-introduction.md)  
+- [study-notes/](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/tree/main/01-study-notes)
+  - [01-Observability Fundamentals.md](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/blob/main/01-study-notes/Observability%20Fundamentals%20(18%25).md)  
   - [02-telemetry-signals.md](./study-notes/02-telemetry-signals.md)  
   - [03-architecture.md](./study-notes/03-architecture.md)  
   - [04-instrumentation.md](./study-notes/04-instrumentation.md)  
