@@ -45,13 +45,13 @@ Based on the official CNCF curriculum:
 
 - [study-notes/](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/tree/main/01-study-notes)
   - [01-Observability Fundamentals.md](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/blob/main/01-study-notes/Observability%20Fundamentals%20(18%25).md)  
-  - [02-telemetry-signals.md](./study-notes/02-telemetry-signals.md)  
-  - [03-architecture.md](./study-notes/03-architecture.md)  
-  - [04-instrumentation.md](./study-notes/04-instrumentation.md)  
-  - [05-collector.md](./study-notes/05-collector.md)  
-  - [06-exporters.md](./study-notes/06-exporters.md)  
-  - [07-troubleshooting.md](./study-notes/07-troubleshooting.md)  
-  - [08-best-practices.md](./study-notes/08-best-practices.md)
+  - [02-telemetry-signals.md](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/blob/main/01-study-notes/02-telemetry-signals.md)  
+  - [03-architecture.md](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/blob/main/01-study-notes/03-architecture.md)  
+  - [04-instrumentation.md](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/blob/main/01-study-notes/04-instrumentation.md)  
+  - [05-collector.md](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/blob/main/01-study-notes/05-collector.md)  
+  - [06-exporters.md](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/blob/main/01-study-notes/06-exporters.md)  
+  - [07-troubleshooting.md](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/blob/main/01-study-notes/07-troubleshooting.md)  
+  - [08-best-practices.md](https://github.com/Yathishns/OpenTelemetry-Certified-Associate-OTCA-/blob/main/01-study-notes/08-best-practices.md)
 
 - hands-on-labs/  
   - docker-compose/  
